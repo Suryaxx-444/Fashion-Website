@@ -550,7 +550,7 @@ footer{
     }
     
     nav h1 {
-        font-size: 2rem;
+        font-size: 1.8rem;
         position: absolute;
         left: 50%;
         transform: translateX(-50%);
@@ -563,7 +563,7 @@ footer{
     
     .nav-icons {
         order: 3;
-        gap: 0.8rem;
+        gap: 1rem;
         justify-content: flex-end;
         width: auto;
     }
@@ -573,12 +573,12 @@ footer{
     }
     
     .nav-icons i span {
-        font-size: 0.7rem;
+        font-size: 0.8rem;
     }
     
     .hero-cover {
         padding: 0px 1rem;
-        height: 0px;
+        height: 150px;
         margin: 5px 10px 0px 10px;
     }
     
